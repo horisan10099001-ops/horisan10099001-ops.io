@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://horisan10099001-ps.github.io# the base hostname & protocol for your site/al-folio/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://horisan10099001-ps.github.io# the base hostname & protocol for your site/#contact">contact us</a>.'
               }
             ]
           }
