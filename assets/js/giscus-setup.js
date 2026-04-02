@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "horisan10099001-ops/horisan10099001-ps.io",
+    "data-repo": "horisan10099001-ops/horisan10099001-ops.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
